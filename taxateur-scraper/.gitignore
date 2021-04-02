@@ -1,0 +1,11 @@
+### VisualStudioCode ###
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+### DotnetCore ###
+# .NET Core build folders
+bin/
+obj/
+
